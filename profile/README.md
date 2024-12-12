@@ -10,7 +10,7 @@ The trigger of this application is based on the user's scream detected by the sy
 
 - **Main Feature:** Customizable voice detection that allows users to trigger emergency notifications (from user's scream), sending SMS, email, and location data to emergency contacts.
 - **Additional Features:** 
-  - **Safety Score Map:** Displays safety scores for various locations, calculated from keywords in news data such as “assault” and “harassment” over the past five years.
+  - **Safety Score Map:** Displays safety scores for various locations, calculated from keywords in news data such as “assault” and “harassment” over the past a year.
   - **Community Forum:** Allows users to report unsafe areas, share personal experiences, and provide feedback to foster a safer community.
 
 ## Project Timeline
@@ -45,10 +45,6 @@ Each team member brings specialized knowledge in **Mobile Development**, **Machi
 - **Mobile Development:** Kotlin, Android Studio, Retrofit, Material 3 Design
 - **Machine Learning:** TensorFlow, voice data preprocessing, model training
 - **Cloud Computing:** Google Cloud Platform (GCP), Node.js, API development
-
-## Getting Started
-
-SOON
 
 ---
 
