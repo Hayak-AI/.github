@@ -1,6 +1,6 @@
 # Hayak.AI: Fast-Response Danger Alert Application
 
-**Hayak.AI** is a danger alert application that utilizes customizable voice detection to trigger emergency notifications (via SMS, email, and real-time location) to registered contacts. In addition to this primary feature, our application also includes a safety score map generated from five years of news analysis and a community forum that enables users to report unsafe locations and share experiences. With Hayak.AI, we aim to enhance public safety and create safer environments for everyone.
+**Hayak.AI** is a danger alert application that utilizes voice detection to trigger emergency notifications (via SMS, email, and real-time location) to registered contacts. In addition to this primary feature, our application also includes a safety score map generated from five years of news analysis and a community forum that enables users to report unsafe locations and share experiences. With Hayak.AI, we aim to enhance public safety and create safer environments for everyone.
 
 The trigger of this application is based on the user's scream detected by the system, which will immediately activate emergency notifications to registered contacts, drawing more attention to emergency situations that require a quick response.
 
